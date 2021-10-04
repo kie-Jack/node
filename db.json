@@ -1,0 +1,89 @@
+{
+  "customer": [
+    {
+      "id": 1,
+      "name": "sana",
+      "age": 25,
+      "hobby": [
+        "movie",
+        "yoga"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "nana",
+      "age": 32,
+      "hobby": [
+        "reading",
+        "singing"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "momo",
+      "age": 29,
+      "hobby": [
+        "달리기",
+        "그림그리기"
+      ]
+    },
+    {
+      "id": 5,
+      "name": "nayeon",
+      "age": 23,
+      "hobby": [
+        "노래",
+        "영화감상"
+      ]
+    },
+    {
+      "id": 6,
+      "name": "momo4",
+      "age": 21,
+      "hobby": [
+        "춤",
+        "노래"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "alex",
+      "age": "23",
+      "hobby": [
+        "undefined"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Billy",
+      "age": "21",
+      "hobby": [
+        "movies, books"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Regina",
+      "age": "25",
+      "hobby": [
+        "painting, music"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Paul",
+      "age": "28",
+      "hobby": [
+        "workout, basketball"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Helene",
+      "age": "23",
+      "hobby": [
+        "Violin"
+      ]
+    }
+  ]
+}
